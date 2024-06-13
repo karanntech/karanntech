@@ -2,7 +2,7 @@
 
 I'm a 21-year-old developer based in India, and I'm passionate about backend development and DevOps. 
 
-Check out my [website](https://karanntech.github.io/Portfoliozk09/) to learn more about me. 
+Check out my [website](https://karxnntech.vercel.app/) to learn more about me.
  
 ## 📦 Toolbox
 
