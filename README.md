@@ -1,6 +1,6 @@
 ### Hey, I'm Karann 👋🏽  
 
-I'm a 21-year-old developer based in India, and I'm passionate about backend development and DevOps. 
+I'm a 21-year-old developer based in India, and I'm passionate about backend development. 
 
 Check out my [website](https://karxnntech.vercel.app/) to learn more about me.
  
