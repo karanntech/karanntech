@@ -2,7 +2,7 @@
 
 I'm a 21-year-old developer based in India, and I'm passionate about backend development. 
 
-Check out my [website](https://karxnntech.vercel.app/) to learn more about me.
+Check out my [LinkedIn](https://www.linkedin.com/in/karannkumar) to learn more about me.
  
 ## 📦 Toolbox
 
@@ -16,13 +16,7 @@ Check out my [website](https://karxnntech.vercel.app/) to learn more about me.
 
 **Others:** `VS code` `Jira`
  
-## ✨ Fun Facts 
-
-- Dororo is my favorite anime.
-- As a kid, I wanted to be a Pilot.
-- I love Bikes, Cars.
-
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/karannkumar). 
+ For a quick response, DM me on karannzk09@gmail.com. 
  
