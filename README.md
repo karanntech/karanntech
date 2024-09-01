@@ -1,22 +1,34 @@
 ### Hey, I'm Karann 👋🏽  
 
-I'm a 21-year-old developer based in India, and I'm passionate about backend development. 
+Like Osamu Dazai from Bungou Stray Dogs, I blend a bit of mystery with a passion for backend development. At 21 years old and based in India, I channel my fascination for anime and technology into creating elegant and efficient backend systems. When I’m not immersed in code, you might catch me contemplating life’s complexities or indulging in the latest anime series.
 
-Check out my [LinkedIn](https://www.linkedin.com/in/karannkumar) to learn more about me.
+Dive into my [LinkedIn](https://www.linkedin.com/in/karannkumar) to unravel more about my professional journey and connect with me. 
  
 ## 📦 Toolbox
 
 **Frontend Development:** `Html` `Css` `Tailwind` `Bootstrap` `JavaScript`
  
-**Version Control:** `Git` 
+**Version Control:** `GitHub` 
 
 **Backend Development:** `Node.js` `Express.js` `MongoDB`
 
 **Testing:** `Postman` `Thunder Client`
 
-**Others:** `VS code` `Jira`
- 
+**IDE:** `VS code`
+
+## 📺 Anime Enthusiast
+
+**Favorite Series:** Bungou Stray Dogs (Dazai’s influence never fades!)
+
+**Currently Watching:** The Reincarnation of the Strongest Exorcist in Another World
+
+**Top Genres:** Action, mystery, supernatural
+
+## 🌌 Musings
+
+In the words of Dazai, “I may be the type who puts up a facade, but I believe in facing challenges head-on and finding meaning in every endeavor.” If you share a love for anime or have intriguing projects to discuss, let’s connect!
+
 ## 📫 Contact
 
- For a quick response, DM me on karannzk09@gmail.com. 
+For a quick response, send a message to karannzk09@gmail.com
  
