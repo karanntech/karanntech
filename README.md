@@ -20,8 +20,6 @@ Dive into my [LinkedIn](https://www.linkedin.com/in/karannkumar) to unravel more
 
 **Favorite Series:** Bungou Stray Dogs (Dazai’s influence never fades!)
 
-**Currently Watching:** The Reincarnation of the Strongest Exorcist in Another World
-
 **Top Genres:** Action, mystery, supernatural
 
 ## 🌌 Musings
