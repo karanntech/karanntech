@@ -29,4 +29,10 @@ In the words of Dazai, “I may be the type who puts up a facade, but I believe 
 ## 📫 Contact
 
 For a quick response, send a message to karannzk09@gmail.com
- 
+
+
+ <p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=karanntech&theme=youtube-dark" alt="GitHub Streak" />
+  </a>
+</p>
