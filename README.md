@@ -4,7 +4,7 @@ Dive into my [LinkedIn](https://www.linkedin.com/in/karannkumar) to unravel more
  
 ## 📦 Toolbox
 
-**Web Development:** `Html & Css` `Tailwind` `JavaScript` `ReactJs` `NodeJs` `ExpressJs` `MongoDB`
+**Web Development:** `Html & Css` `Tailwind` `JavaScript` `ReactJs` `NodeJs` `ExpressJs` `MongoDB` `NextJs` `TypeScript`
  
 **Version Control:** `GitHub` 
 
